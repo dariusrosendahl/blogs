@@ -21,7 +21,7 @@
   "author": "Brian Han <thisisbrianhan@gmail.com> (http://brianhanio.mybluemix.net/)",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "3.4.2",
-    "nodemon": "1.8.1"
+    "node-sass": "4.2.0",
+    "nodemon": "1.11.0"
   }
 }
